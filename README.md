@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @favian-jpt
-- 👀 I’m interested in Web Pentesting
-- 🌱 I’m currently running CyberSecurity
-- 📫 How to reach me instagram/muratmidik_ & linkedin/muratmidik
+- 👾 I’m a Etical Hacker 👾
+- 👨🏻‍💻 I’m currently running Cyber Security
+- 💻 I'm Cyber Security % Linux Instructor
+- 📫 How to reach me instagram/muratmidik_ & linkedin/muratmidik & youtube/@m.muratmidik_
 
 <!---
 favian-jpt/favian-jpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
