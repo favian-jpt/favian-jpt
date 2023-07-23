@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @favian-jpt
 - 👾 I’m a Etical Hacker 👾
 - 👨🏻‍💻 I’m currently running Cyber Security
-- 💻 I'm Cyber Security & Linux Instructor
+- 💻 I'm Cyber Security & Linux Mentor in Bilisim School
 - 📫 How to reach me instagram/muratmidik_ & linkedin/muratmidik & youtube/@m.muratmidik_
 
 <!---
