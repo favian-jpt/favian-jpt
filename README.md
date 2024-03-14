@@ -4,10 +4,7 @@
 - 💻 I'm Cyber Security & Linux Mentor in Bilisim School
 - 📫 How to reach me instagram/muratmidik_ & linkedin/muratmidik & youtube/@m.muratmidik_
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=favian-jpt&label=Profile%20views&color=0e75b6&style=flat" alt="favian-jpt" /> </p>
-
 <p align="left"> <a href="https://twitter.com/muratmidik_" target="blank"><img src="https://img.shields.io/twitter/follow/muratmidik_?logo=twitter&style=for-the-badge" alt="muratmidik_" /></a> </p>
 
 ### Blogs posts
